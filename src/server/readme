@@ -1,0 +1,2 @@
+if you have javafx, exclude the nogui package
+if you don't, exclude the gui package

@@ -1,0 +1,15 @@
+TODOs (sorta in order of importance):
+
+fix issues from grading
+
+DONE 0. split WAMClient into WAMNetworkClient and WAMModel (do we really need to though?)
+DONE (they said it's not required, so we're probably good to use our own version of it) 1. Check if adding parameter to Observer.update() is ok (this will require large rewrites if not)
+DONE 2. The GUI scaling issues | Update: rows and cols are getting mixed at some point, idk
+DONE 3. Figure out where to put the image files in src
+DONE 4. ArrayList Sorting for PointPairs in WAMClient.java
+DONE 5. Make the exit when WAMGui parameters are bad more graceful
+DONE 6. See if you can show what the player's ID is on the scoreboard
+DONE 7. There's this exception that gets thrown (sometimes) when you start up, idk why, and it still works, but we should look into it
+(eh)8. more testing
+(DONE) 9. sound effects? (partially done)
+(DONE) 10. Separate server from model (what does this mean?)
